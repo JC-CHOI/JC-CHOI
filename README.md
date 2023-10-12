@@ -24,7 +24,13 @@
     <div>
         <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white">
         <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-        
+    </div>  
+    <!-- Version -->
+    <p><strong>Version</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div><br>
 </div>
 </div>
